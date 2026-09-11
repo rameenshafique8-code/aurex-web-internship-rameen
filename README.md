@@ -1,24 +1,27 @@
-# Aurex Web Internship - Week 1
+# Aurex Web Internship - Week 2
 ## Intern Information 
 **Name:** Rameen Shafique
 **Domain:** Full-Stack Web Development
-**Week:** 1
+**Week:** 2
 
 ## Task Description
-Create a basic personal profile and developer introduction webpage using HTMl5.
+Improve the Week 1 personal profile webpage using CSS3 and modern responsive layout techniques.
 The webpage includes:
-- Header
-- Navigation
-- Home
-- About Me
-- Skills
-- Education
-- Experience
-- Contact Form
-- Footer
+- Professional CSS styling
+- Typography and spacing
+- Colors and backgrounds
+- Box model
+- Flexbox and CSS Grid
+- Responsive design
+- Desktop, tablet, and mobile layouts
+- Media queries
 
 ## Technologies Used
 - HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Media Queries
 - Git
 - GitHub
 - Visual Studio Code
@@ -27,30 +30,42 @@ The webpage includes:
 1. Download or clone the repository.
 2. Open the project folder.
 3. Open the 'index.html' file in a web browser.
+## CSS Features and Layout Techniques
+- CSS3 selectors
+- Colors and backgrounds
+- Typography and spacing
+- Margin, padding, and borders
+- Box model
+- Animations
+- Flexbox for layout
+- CSS Grid for structured sections
+- Media queries for responsive design
+- Responsive layouts for desktop, tablet, and mobile
 
 ## Key Learnings
-- Learned how to create a webpage using HTML5.
-- Learned about semantic HTML elements.
-- Learned how to create navigation links.
-- Learned how to create an accessible contact form.
-- Learned basic Git and GitHub workflow.
-
-## Difficulties
-Understanding the proper structure of a semantic HTML webpage and using Git and GitHub was initially challenging. I practiced these concepts and improved my understanding.
-
+- Learned CSS3 styling and selectors.
+- Learned about the CSS box model.
+- Learned how to use Flexbox and CSS Grid.
+- Learned how to create responsive layouts using media queries.
+- Improved understanding of responsive UI/UX design.
+## Challenges
+- Making the webpage responsive for different screen sizes.
+- Maintaining consistent spacing and layout across desktop, tablet, and mobile.
+- Understanding and applying Flexbox and CSS Grid effectively.
 ## Completed Requirements
--[x] HTML5 structure
--[x] Semantic HTML
--[x] Navigation
--[x] Home section
--[x] About Me section
--[x] Skills section
--[x] Education section
--[x] Experience section
--[x] Contact form
--[x] Footer
--[x] Accessibility basics
--[x] Git and GitHub
+- [x] CSS3 styling
+- [x] Box model
+- [x] Flexbox
+- [x] CSS Grid
+- [x] Responsive design
+- [x] Media queries
+- [x] Desktop layout
+- [x] Tablet layout
+- [x] Mobile layout
+- [x] Professional UI/UX consistency
+## Live Deployment
+**Live Demo:** [Add your live deployment link here]
+
 
 
 
