@@ -64,7 +64,7 @@ The webpage includes:
 - [x] Mobile layout
 - [x] Professional UI/UX consistency
 ## Live Deployment
-**Live Demo:** [Add your live deployment link here]
+**Live Demo:** [Live Site Link](https://rameenshafique8-code.github.io/aurex-web-internship-rameen/)
 
 
 
