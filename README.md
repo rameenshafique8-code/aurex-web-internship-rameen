@@ -65,6 +65,7 @@ The webpage includes:
 - [x] Professional UI/UX consistency
 ## Live Deployment
 **Live Demo:** [Live Site Link](https://rameenshafique8-code.github.io/aurex-web-internship-rameen/)
+**Vercel Deployment:** https://aurex-web-internship-rameen.vercel.app/
 
 
 
