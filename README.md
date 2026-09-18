@@ -48,6 +48,10 @@ aurex-web-internship-rameen/
 │   └── animations.css
 │
 └── README.md
+ ##  GitHub live deployment link
+**Live Demo:** [https://github.com/rameenshafique8-code/aurex-web-internship-rameen.git]
+## vercel deployment link
+**Live Demo:** https://vercel.com/rameen-shafique/aurex-web-internship-rameen
 
 
 
